@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "0b070c49-30a0-43f4-8afb-a50575d0e6ae",
+    "Title": "Empty project",
+    "Image": "images/playlists/EmptyProject-logo.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "learningpathways",
+    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+    "Description": "try to create demo",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8c9fa89c-b604-4960-a93a-28a6da1d7858"
+    ]
+  }
+]
