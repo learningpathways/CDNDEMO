@@ -104,8 +104,8 @@
   },
   "ContentPacks": [],
   "AssetOrigins": [
-    "https://github.com/",
+    "https://github.com",
     "https://support.office.com",
-    "https://docs.microsoft.com/"
+    "https://docs.microsoft.com"
   ]
 }
