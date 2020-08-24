@@ -1,0 +1,3492 @@
+var clModel={
+  "Global": {
+    "mlText": {
+      "Videos": "Videos",
+      "Downloads": "Downloads",
+      "Assist": "Assist",
+      "DOCX": "Word",
+      "PDF": "PDF",
+      "PPTX": "PowerPoint",
+      "JSV": "Show Me",
+      "JSV2": "Try Me",
+      "JSV3": "Test Me",
+      "SWF": "Media Player",
+      "XAP": "SilverLight",
+      "TOC": "Table of Content",
+      "cldocid": "ID",
+      "clauthor": "Author",
+      "clrevision": "Revision",
+      "Feedback": "Feedback",
+      "FeedbackRating": "Your rating",
+      "FeedbackComment": "Your comment",
+      "FeedbackSubmit": "Submit",
+      "FeedbackR1": "Bad",
+      "FeedbackR2": "Poor",
+      "FeedbackR3": "Average",
+      "FeedbackR4": "Good",
+      "FeedbackR5": "Great",
+      "WMV": "Window Video",
+      "REF": "References",
+      "Search": "Search...",
+      "DownloadPDF": "Download full portal",
+      "Description": "Description",
+      "FeedbackTitle": "Something’s missing?",
+      "FeedbackQuestion": "Can’t find what you are looking for in the documentation?",
+      "FeedbackAction": "Click to contact us!",
+      "Sitemap": "Content",
+      "GCassistChrome": "Google Chrome browser required",
+      "GCassistChromeMessage": "To use the ClickLearn Assist for web applications you are required to use the Google Chrome browser.",
+      "GCassistExtension": "ClickLearn Chrome Assist Extension required",
+      "GCassistExtensionMessage": "To use the ClickLearn Assist for web applications you are required to install the ClickLearn Chrome Assist Extension. Click the button below to install now.",
+      "GCassistExtensionBtn": "Install extension",
+      "GCassistMsgInstallOk": "Extension installed",
+      "GCassistMsgInstallOkMessage": "Please refresh the page by pressing F5 and then click the Assist link again.",
+      "GCassistMsgInstallError": "Extension failed to install",
+      "GCassistMsgInstallErrorMessage": "Failed to install the extension. Error message was: $1",
+      "GCassistMsgInstallException": "Extension failed to install",
+      "GCassistMsgInstallExceptionMessage": "Failed to install the extension. Exception was: $1",
+      "GCassistMsgLoadJSException": "Failed to load assist script",
+      "GCassistMsgLoadJSExceptionMessage": "Failed to load the assist script. Exception was: $1"
+    },
+    "AppExePath": "C:\\code\\ClickLearn12\\ClickLearnStudio\\bin\\Debug"
+  },
+  "Id": "196425b3-e2b9-475f-a6bf-6e2bd1c4222b",
+  "Dir": ".",
+  "Name": "EmptyProject",
+  "SourceFileName": "EmptyProject.clrx",
+  "OutputFileWithoutExtension": "EmptyProject",
+  "FileType": 1,
+  "TypeStr": "recording",
+  "Title": "EmptyProject",
+  "LogoFileName": "EmptyProject-logo.png",
+  "TrackingId": null,
+  "PDFFileName": null,
+  "FeedbackEmail": null,
+  "tColor": "77, 152, 206",
+  "tColorLightLight": "130, 182, 220",
+  "tColorLight": "85, 157, 208",
+  "tColorDark": "73, 144, 195",
+  "tColorDarkDark": "53, 106, 144",
+  "doPreview": true,
+  "doFeedbackSection": false,
+  "Steps": [
+    {
+      "Id": "8c9fa89c-b604-4960-a93a-28a6da1d7858",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-8c9fa89c-b604-4960-a93a-28a6da1d7858",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnNewProject",
+        "2": "NewProject",
+        "3": "",
+        "4": "btnNewProject",
+        "Source": "<Step x=\"42\" y=\"71\" exe=\"CLStudio.exe\" wh=\"394748\" cmd=\"CLux12\" mouse=\"Move\" id=\"8c9fa89c-b604-4960-a93a-28a6da1d7858\" ms=\"117569250\"><Arg1>btnNewProject</Arg1><Par2>btnNewProject</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>NewProject</Arg3><Par3><lt><l lcid=\"1033\">NewProject</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnNewProject</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">12</l></lt></X><Y><lt><l lcid=\"1033\">39</l></lt></Y><W><lt><l lcid=\"1033\">40</l></lt></W><H><lt><l lcid=\"1033\">40</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">204678</l></lt></Offset><Offset2><lt><l lcid=\"1033\">204678</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">59</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnNewProject</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "12, 39, 40, 40",
+      "Offset": 204678,
+      "TemplatedText": "Move the mouse to the button <b>NewProject</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "NewProject"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "6f3a9082-c745-487e-a5cf-da6269316f5b",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-6f3a9082-c745-487e-a5cf-da6269316f5b",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblCurrentProjectImage",
+        "2": "",
+        "3": "",
+        "4": "lblCurrentProjectImage",
+        "Source": "<Step x=\"106\" y=\"78\" exe=\"CLStudio.exe\" wh=\"69444\" cmd=\"CLux12\" mouse=\"Move\" id=\"6f3a9082-c745-487e-a5cf-da6269316f5b\" ms=\"117572109\"><Arg1>lblCurrentProjectImage</Arg1><Par2>lblCurrentProjectImage</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3></Arg3><Par3><lt><l lcid=\"1033\"></l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblCurrentProjectImage</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">74</l></lt></X><Y><lt><l lcid=\"1033\">49</l></lt></Y><W><lt><l lcid=\"1033\">49</l></lt></W><H><lt><l lcid=\"1033\">58</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">242247</l></lt></Offset><Offset2><lt><l lcid=\"1033\">242247</l></lt></Offset2><Rx><lt><l lcid=\"1033\">98</l></lt></Rx><Ry><lt><l lcid=\"1033\">78</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblCurrentProjectImage</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "74, 49, 49, 58",
+      "Offset": 242247,
+      "TemplatedText": "Move the mouse to the label <b></b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "3f9dfb00-3029-45d2-a3a5-be809273d8fd",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-3f9dfb00-3029-45d2-a3a5-be809273d8fd",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblCurrentProjectName",
+        "2": "Ux12Map13-8",
+        "3": "",
+        "4": "lblCurrentProjectName",
+        "Source": "<Step x=\"186\" y=\"74\" exe=\"CLStudio.exe\" wh=\"69446\" cmd=\"CLux12\" mouse=\"Move\" id=\"3f9dfb00-3029-45d2-a3a5-be809273d8fd\" ms=\"117573953\"><Arg1>lblCurrentProjectName</Arg1><Par2>lblCurrentProjectName</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>MapUX12Testing</Arg3><Par3><lt><l lcid=\"1033\">Ux12Map13-8</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblCurrentProjectName</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">122</l></lt></X><Y><lt><l lcid=\"1033\">61</l></lt></Y><W><lt><l lcid=\"1033\">147</l></lt></W><H><lt><l lcid=\"1033\">21</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">242247</l></lt></Offset><Offset2><lt><l lcid=\"1033\">242247</l></lt></Offset2><Rx><lt><l lcid=\"1033\">195</l></lt></Rx><Ry><lt><l lcid=\"1033\">71</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblCurrentProjectName</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "122, 61, 147, 21",
+      "Offset": 242247,
+      "TemplatedText": "Move the mouse to the label <b>Ux12Map13-8</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Ux12Map13-8"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "fb8d843d-322b-4b9d-b2ac-62e782322954",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-fb8d843d-322b-4b9d-b2ac-62e782322954",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblHoverRecentProject2",
+        "2": "Map16-7",
+        "3": "ClickLearn ApS (DO NOT MODIFY ME)",
+        "Source": "<Step x=\"168\" y=\"186\" exe=\"CLStudio.exe\" wh=\"69460\" cmd=\"CLux12\" mouse=\"Move\" id=\"fb8d843d-322b-4b9d-b2ac-62e782322954\" ms=\"117585593\" replayerror=\"skip\"><Arg1>lblHoverRecentProject2</Arg1><Par2><lt><l lcid=\"1033\">lblHoverRecentProject2</l></lt></Par2><Arg2>Telerik_WinControls_UI_RadLabel_RECENT_PROJECT</Arg2><Arg3>Map16-7</Arg3><Par3><lt><l lcid=\"1033\">Map16-7</l></lt></Par3><Arg4>ClickLearn ApS (DO NOT MODIFY ME)</Arg4><Par4><lt><l lcid=\"1033\">ClickLearn ApS (DO NOT MODIFY ME)</l></lt></Par4><Arg5>ProjectName|Map16-7|CompanyName|ClickLearn ApS (DO NOT MODIFY ME)</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_UX12_%_Telerik_WinControls_UI_RadLabel_RECENT_PROJECT</Par1><X><lt><l lcid=\"1033\">122</l></lt></X><Y><lt><l lcid=\"1033\">168</l></lt></Y><W><lt><l lcid=\"1033\">147</l></lt></W><H><lt><l lcid=\"1033\">21</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">242247</l></lt></Offset><Offset2><lt><l lcid=\"1033\">229917</l></lt></Offset2></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "122, 168, 147, 21",
+      "Offset": 242247,
+      "TemplatedText": "Move the mouse to the recent project label <b>Map16-7</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the recent project label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Map16-7"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "fb264c8f-01a5-45a3-a142-27b246f92a70",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-fb264c8f-01a5-45a3-a142-27b246f92a70",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnCreateProject",
+        "2": "+   Create new project",
+        "3": "",
+        "4": "btnCreateProject",
+        "Source": "<Step x=\"140\" y=\"335\" exe=\"CLStudio.exe\" wh=\"69466\" cmd=\"CLux12\" mouse=\"Move\" id=\"fb264c8f-01a5-45a3-a142-27b246f92a70\" ms=\"117587281\"><Arg1>btnCreateProject</Arg1><Par2>btnCreateProject</Par2><Arg2>ClickLearnUX12_ccLinkButton</Arg2><Arg3>+   Create new project</Arg3><Par3><lt><l lcid=\"1033\">+   Create new project</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnCreateProject</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccLinkButton</Par1><X><lt><l lcid=\"1033\">72</l></lt></X><Y><lt><l lcid=\"1033\">322</l></lt></Y><W><lt><l lcid=\"1033\">200</l></lt></W><H><lt><l lcid=\"1033\">45</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">242247</l></lt></Offset><Offset2><lt><l lcid=\"1033\">245108</l></lt></Offset2><Rx><lt><l lcid=\"1033\">172</l></lt></Rx><Ry><lt><l lcid=\"1033\">344</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnCreateProject</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "72, 322, 200, 45",
+      "Offset": 242247,
+      "TemplatedText": "Move the mouse to the button <b>+   Create new project</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "+   Create new project"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d3976e5f-e2db-4ae8-a966-970f7d439dd1",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d3976e5f-e2db-4ae8-a966-970f7d439dd1",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnHoverViewAllProject",
+        "2": "View all projects",
+        "3": "",
+        "4": "btnHoverViewAllProject",
+        "Source": "<Step x=\"109\" y=\"300\" exe=\"CLStudio.exe\" wh=\"69464\" cmd=\"CLux12\" mouse=\"Move\" id=\"d3976e5f-e2db-4ae8-a966-970f7d439dd1\" ms=\"117588671\"><Arg1>btnHoverViewAllProject</Arg1><Par2>btnHoverViewAllProject</Par2><Arg2>ClickLearnUX12_ccLinkButton</Arg2><Arg3>View all projects</Arg3><Par3><lt><l lcid=\"1033\">View all projects</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnHoverViewAllProject</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccLinkButton</Par1><X><lt><l lcid=\"1033\">71</l></lt></X><Y><lt><l lcid=\"1033\">269</l></lt></Y><W><lt><l lcid=\"1033\">130</l></lt></W><H><lt><l lcid=\"1033\">47</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">245108</l></lt></Offset><Offset2><lt><l lcid=\"1033\">251027</l></lt></Offset2><Rx><lt><l lcid=\"1033\">136</l></lt></Rx><Ry><lt><l lcid=\"1033\">292</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnHoverViewAllProject</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "71, 269, 130, 47",
+      "Offset": 245108,
+      "TemplatedText": "Move the mouse to the button <b>View all projects</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "View all projects"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "03f37cb6-563d-4c3a-bd0a-bfce8ef87ab9",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-03f37cb6-563d-4c3a-bd0a-bfce8ef87ab9",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnRecordings",
+        "2": "Recordings",
+        "3": "",
+        "4": "btnRecordings",
+        "Source": "<Step x=\"35\" y=\"115\" exe=\"CLStudio.exe\" wh=\"199028\" cmd=\"CLux12\" mouse=\"Move\" id=\"03f37cb6-563d-4c3a-bd0a-bfce8ef87ab9\" ms=\"117590515\"><Arg1>btnRecordings</Arg1><Par2>btnRecordings</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Recordings</Arg3><Par3><lt><l lcid=\"1033\">Recordings</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnRecordings</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">95</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">251027</l></lt></Offset><Offset2><lt><l lcid=\"1033\">253891</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">119</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnRecordings</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 95, 64, 48",
+      "Offset": 251027,
+      "TemplatedText": "Move the mouse to the button <b>Recordings</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Recordings"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "4493f1b2-962b-4f4c-b698-fcce8b4ad03f",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-4493f1b2-962b-4f4c-b698-fcce8b4ad03f",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnStructure",
+        "2": "Structure",
+        "3": "",
+        "4": "btnStructure",
+        "Source": "<Step x=\"17\" y=\"171\" exe=\"CLStudio.exe\" wh=\"199018\" cmd=\"CLux12\" mouse=\"Move\" id=\"4493f1b2-962b-4f4c-b698-fcce8b4ad03f\" ms=\"117591796\"><Arg1>btnStructure</Arg1><Par2>btnStructure</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Structure</Arg3><Par3><lt><l lcid=\"1033\">Structure</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnStructure</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">143</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">256085</l></lt></Offset><Offset2><lt><l lcid=\"1033\">259052</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">167</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnStructure</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 143, 64, 48",
+      "Offset": 256085,
+      "TemplatedText": "Move the mouse to the button <b>Structure</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Structure"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "6be8350d-1129-41db-8043-020f5ef0efe6",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-6be8350d-1129-41db-8043-020f5ef0efe6",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnLanguage",
+        "2": "Localization",
+        "3": "",
+        "4": "btnLanguage",
+        "Source": "<Step x=\"27\" y=\"221\" exe=\"CLStudio.exe\" wh=\"199016\" cmd=\"CLux12\" mouse=\"Move\" id=\"6be8350d-1129-41db-8043-020f5ef0efe6\" ms=\"117594609\"><Arg1>btnLanguage</Arg1><Par2>btnLanguage</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Localization</Arg3><Par3><lt><l lcid=\"1033\">Localization</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnLanguage</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">191</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">261773</l></lt></Offset><Offset2><lt><l lcid=\"1033\">268775</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">215</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnLanguage</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 191, 64, 48",
+      "Offset": 261773,
+      "TemplatedText": "Move the mouse to the button <b>Localization</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Localization"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "8d1c950a-2a5c-4b65-81f4-c4eb571fb885",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-8d1c950a-2a5c-4b65-81f4-c4eb571fb885",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnAssets",
+        "2": "Assets",
+        "3": "",
+        "4": "btnAssets",
+        "Source": "<Step x=\"23\" y=\"265\" exe=\"CLStudio.exe\" wh=\"199030\" cmd=\"CLux12\" mouse=\"Move\" id=\"8d1c950a-2a5c-4b65-81f4-c4eb571fb885\" ms=\"117595875\"><Arg1>btnAssets</Arg1><Par2>btnAssets</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Assets</Arg3><Par3><lt><l lcid=\"1033\">Assets</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnAssets</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">239</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">271339</l></lt></Offset><Offset2><lt><l lcid=\"1033\">278925</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">263</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnAssets</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 239, 64, 48",
+      "Offset": 271339,
+      "TemplatedText": "Move the mouse to the button <b>Assets</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Assets"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "cddf911e-bc21-4a9b-85bc-301099d1943e",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-cddf911e-bc21-4a9b-85bc-301099d1943e",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnPublishing",
+        "2": "Publishing",
+        "3": "",
+        "4": "btnPublishing",
+        "Source": "<Step x=\"23\" y=\"314\" exe=\"CLStudio.exe\" wh=\"199032\" cmd=\"CLux12\" mouse=\"Move\" id=\"cddf911e-bc21-4a9b-85bc-301099d1943e\" ms=\"117597203\"><Arg1>btnPublishing</Arg1><Par2>btnPublishing</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Publishing</Arg3><Par3><lt><l lcid=\"1033\">Publishing</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnPublishing</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">287</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">280965</l></lt></Offset><Offset2><lt><l lcid=\"1033\">287524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">311</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnPublishing</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 287, 64, 48",
+      "Offset": 280965,
+      "TemplatedText": "Move the mouse to the button <b>Publishing</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Publishing"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "a5b7131e-9259-4155-bc6f-9c776dd1ef37",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-a5b7131e-9259-4155-bc6f-9c776dd1ef37",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnBIV",
+        "2": "BI Visualization",
+        "3": "",
+        "4": "btnBIV",
+        "Source": "<Step x=\"28\" y=\"350\" exe=\"CLStudio.exe\" wh=\"264550\" cmd=\"CLux12\" mouse=\"Move\" id=\"a5b7131e-9259-4155-bc6f-9c776dd1ef37\" ms=\"117598765\"><Arg1>btnBIV</Arg1><Par2>btnBIV</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>BI Visualization</Arg3><Par3><lt><l lcid=\"1033\">BI Visualization</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnBIV</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">335</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">289548</l></lt></Offset><Offset2><lt><l lcid=\"1033\">294547</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">359</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnBIV</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 335, 64, 48",
+      "Offset": 289548,
+      "TemplatedText": "Move the mouse to the button <b>BI Visualization</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "BI Visualization"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d525d112-6674-4d9f-bb3b-5f8fe6037bca",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d525d112-6674-4d9f-bb3b-5f8fe6037bca",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnSettings",
+        "2": "Settings",
+        "3": "",
+        "4": "btnSettings",
+        "Source": "<Step x=\"24\" y=\"401\" exe=\"CLStudio.exe\" wh=\"787870\" cmd=\"CLux12\" mouse=\"Move\" id=\"d525d112-6674-4d9f-bb3b-5f8fe6037bca\" ms=\"117600062\"><Arg1>btnSettings</Arg1><Par2>btnSettings</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Settings</Arg3><Par3><lt><l lcid=\"1033\">Settings</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnSettings</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">0</l></lt></X><Y><lt><l lcid=\"1033\">383</l></lt></Y><W><lt><l lcid=\"1033\">64</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">297079</l></lt></Offset><Offset2><lt><l lcid=\"1033\">302879</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">407</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnSettings</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "0, 383, 64, 48",
+      "Offset": 297079,
+      "TemplatedText": "Move the mouse to the button <b>Settings</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Settings"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "58606b5d-cd9f-4e3c-8f6c-d8ac37503400",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-58606b5d-cd9f-4e3c-8f6c-d8ac37503400",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnAdd",
+        "2": "New",
+        "3": "",
+        "4": "btnAdd",
+        "Source": "<Step x=\"33\" y=\"516\" exe=\"CLStudio.exe\" wh=\"263690\" cmd=\"CLux12\" mouse=\"Move\" id=\"58606b5d-cd9f-4e3c-8f6c-d8ac37503400\" ms=\"117601687\"><Arg1>btnAdd</Arg1><Par2>btnAdd</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>New</Arg3><Par3><lt><l lcid=\"1033\">New</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnAdd</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">513</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">305108</l></lt></Offset><Offset2><lt><l lcid=\"1033\">309160</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">529</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnAdd</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 513, 32, 32",
+      "Offset": 305108,
+      "TemplatedText": "Move the mouse to the button <b>New</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "New"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "b442a7bb-b7ad-4b73-acd6-918258e9e09b",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-b442a7bb-b7ad-4b73-acd6-918258e9e09b",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnGlobalSearch",
+        "2": "Search (CTRL+F)",
+        "3": "",
+        "4": "btnGlobalSearch",
+        "Source": "<Step x=\"28\" y=\"563\" exe=\"CLStudio.exe\" wh=\"329224\" cmd=\"CLux12\" mouse=\"Move\" id=\"b442a7bb-b7ad-4b73-acd6-918258e9e09b\" ms=\"117602984\"><Arg1>btnGlobalSearch</Arg1><Par2>btnGlobalSearch</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Search (CTRL+F)</Arg3><Par3><lt><l lcid=\"1033\">Search (CTRL+F)</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnGlobalSearch</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">553</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">310910</l></lt></Offset><Offset2><lt><l lcid=\"1033\">314274</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">569</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnGlobalSearch</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 553, 32, 32",
+      "Offset": 310910,
+      "TemplatedText": "Move the mouse to the button <b>Search (CTRL+F)</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Search (CTRL+F)"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "45a93136-53a9-436a-8b8c-eaab7b4c5c25",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-45a93136-53a9-436a-8b8c-eaab7b4c5c25",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnHelp",
+        "2": "Get Help",
+        "3": "",
+        "4": "btnHelp",
+        "Source": "<Step x=\"36\" y=\"609\" exe=\"CLStudio.exe\" wh=\"263686\" cmd=\"CLux12\" mouse=\"Move\" id=\"45a93136-53a9-436a-8b8c-eaab7b4c5c25\" ms=\"117608718\"><Arg1>btnHelp</Arg1><Par2>btnHelp</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Get Help</Arg3><Par3><lt><l lcid=\"1033\">Get Help</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnHelp</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">593</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">316934</l></lt></Offset><Offset2><lt><l lcid=\"1033\">320916</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">609</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnHelp</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 593, 32, 32",
+      "Offset": 316934,
+      "TemplatedText": "Move the mouse to the button <b>Get Help</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Get Help"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "9319ef9c-e80e-4ac8-9b6c-fd8791766b86",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-9319ef9c-e80e-4ac8-9b6c-fd8791766b86",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnNotification",
+        "2": "Notification (2)",
+        "3": "",
+        "4": "btnNotification",
+        "Source": "<Step x=\"36\" y=\"641\" exe=\"CLStudio.exe\" wh=\"394750\" cmd=\"CLux12\" mouse=\"Move\" id=\"9319ef9c-e80e-4ac8-9b6c-fd8791766b86\" ms=\"117610015\"><Arg1>btnNotification</Arg1><Par2>btnNotification</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Notification (2)</Arg3><Par3><lt><l lcid=\"1033\">Notification (2)</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnNotification</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">633</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">322975</l></lt></Offset><Offset2><lt><l lcid=\"1033\">326873</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">649</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnNotification</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 633, 32, 32",
+      "Offset": 322975,
+      "TemplatedText": "Move the mouse to the button <b>Notification (2)</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Notification (2)"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "43bb3f4e-4883-4c75-9671-bd90cab574f0",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-43bb3f4e-4883-4c75-9671-bd90cab574f0",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblIcon",
+        "2": "Profile",
+        "3": "",
+        "4": "lblIcon",
+        "Source": "<Step x=\"35\" y=\"682\" exe=\"CLStudio.exe\" wh=\"263332\" cmd=\"CLux12\" mouse=\"Move\" id=\"43bb3f4e-4883-4c75-9671-bd90cab574f0\" ms=\"117611359\"><Arg1>lblIcon</Arg1><Par2>lblIcon</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Profile</Arg3><Par3><lt><l lcid=\"1033\">Profile</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblIcon</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">13</l></lt></X><Y><lt><l lcid=\"1033\">673</l></lt></Y><W><lt><l lcid=\"1033\">38</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">329347</l></lt></Offset><Offset2><lt><l lcid=\"1033\">331449</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">692</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblIcon</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "13, 673, 38, 38",
+      "Offset": 329347,
+      "TemplatedText": "Move the mouse to the label <b>Profile</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Profile"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "7482dac0-2864-4b34-bda3-12a2bd58a237",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-7482dac0-2864-4b34-bda3-12a2bd58a237",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnStartNewRecording",
+        "2": "Start new recording",
+        "3": "",
+        "4": "btnStartNewRecording",
+        "Source": "<Step x=\"684\" y=\"279\" exe=\"CLStudio.exe\" wh=\"265996\" cmd=\"CLux12\" mouse=\"Move\" id=\"7482dac0-2864-4b34-bda3-12a2bd58a237\" ms=\"117613015\"><Arg1>btnStartNewRecording</Arg1><Par2>btnStartNewRecording</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Start new recording</Arg3><Par3><lt><l lcid=\"1033\">Start new recording</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnStartNewRecording</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">564</l></lt></X><Y><lt><l lcid=\"1033\">274</l></lt></Y><W><lt><l lcid=\"1033\">154</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">333383</l></lt></Offset><Offset2><lt><l lcid=\"1033\">337006</l></lt></Offset2><Rx><lt><l lcid=\"1033\">641</l></lt></Rx><Ry><lt><l lcid=\"1033\">297</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnStartNewRecording</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "564, 274, 154, 46",
+      "Offset": 333383,
+      "TemplatedText": "Move the mouse to the button <b>Start new recording</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Start new recording"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "6bc418b0-8311-4b38-9903-4c580d894db0",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-6bc418b0-8311-4b38-9903-4c580d894db0",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnImportRecording",
+        "2": "Add recordings",
+        "3": "",
+        "4": "btnImportRecording",
+        "Source": "<Step x=\"763\" y=\"286\" exe=\"CLStudio.exe\" wh=\"265994\" cmd=\"CLux12\" mouse=\"Move\" id=\"6bc418b0-8311-4b38-9903-4c580d894db0\" ms=\"117614156\"><Arg1>btnImportRecording</Arg1><Par2>btnImportRecording</Par2><Arg2>ClickLearnUX12_ccLinkButton</Arg2><Arg3>Add recordings</Arg3><Par3><lt><l lcid=\"1033\">Add recordings</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnImportRecording</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccLinkButton</Par1><X><lt><l lcid=\"1033\">732</l></lt></X><Y><lt><l lcid=\"1033\">274</l></lt></Y><W><lt><l lcid=\"1033\">131</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">337006</l></lt></Offset><Offset2><lt><l lcid=\"1033\">342983</l></lt></Offset2><Rx><lt><l lcid=\"1033\">797</l></lt></Rx><Ry><lt><l lcid=\"1033\">297</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnImportRecording</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "732, 274, 131, 46",
+      "Offset": 337006,
+      "TemplatedText": "Move the mouse to the button <b>Add recordings</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Add recordings"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "612e45bc-bfc4-4559-aed5-639812d5fa0c",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-612e45bc-bfc4-4559-aed5-639812d5fa0c",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblText",
+        "2": "Here’s where you can see and organize your recordings.\nThe list is currently empty.",
+        "3": "",
+        "4": "lblText",
+        "Source": "<Step x=\"743\" y=\"219\" exe=\"CLStudio.exe\" wh=\"266000\" cmd=\"CLux12\" mouse=\"Move\" id=\"612e45bc-bfc4-4559-aed5-639812d5fa0c\" ms=\"117616000\"><Arg1>lblText</Arg1><Par2>lblText</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Here’s where you can see and organize your recordings.\nThe list is currently empty.</Arg3><Par3><lt><l lcid=\"1033\">Here’s where you can see and organize your recordings.\nThe list is currently empty.</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblText</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">464</l></lt></X><Y><lt><l lcid=\"1033\">202</l></lt></Y><W><lt><l lcid=\"1033\">500</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">342983</l></lt></Offset><Offset2><lt><l lcid=\"1033\">345970</l></lt></Offset2><Rx><lt><l lcid=\"1033\">714</l></lt></Rx><Ry><lt><l lcid=\"1033\">226</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblText</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "464, 202, 500, 48",
+      "Offset": 342983,
+      "TemplatedText": "Move the mouse to the label <b>Here’s where you can see and organize your recordings.\nThe list is currently empty.</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Here’s where you can see and organize your recordings.\nThe list is currently empty."
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "490d5734-37bd-48d4-9478-cbbdb8edbcbd",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-490d5734-37bd-48d4-9478-cbbdb8edbcbd",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblRecordings",
+        "2": "List of your ClickLearn recordings",
+        "3": "",
+        "4": "lblRecordings",
+        "Source": "<Step x=\"753\" y=\"166\" exe=\"CLStudio.exe\" wh=\"265998\" cmd=\"CLux12\" mouse=\"Move\" id=\"490d5734-37bd-48d4-9478-cbbdb8edbcbd\" ms=\"117617437\"><Arg1>lblRecordings</Arg1><Par2>lblRecordings</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>List of your ClickLearn recordings</Arg3><Par3><lt><l lcid=\"1033\">List of your ClickLearn recordings</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblRecordings</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">523</l></lt></X><Y><lt><l lcid=\"1033\">158</l></lt></Y><W><lt><l lcid=\"1033\">413</l></lt></W><H><lt><l lcid=\"1033\">36</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">345970</l></lt></Offset><Offset2><lt><l lcid=\"1033\">345970</l></lt></Offset2><Rx><lt><l lcid=\"1033\">729</l></lt></Rx><Ry><lt><l lcid=\"1033\">176</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblRecordings</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "523, 158, 413, 36",
+      "Offset": 345970,
+      "TemplatedText": "Move the mouse to the label <b>List of your ClickLearn recordings</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "List of your ClickLearn recordings"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "4fcbc5d4-8306-4c98-b735-b3f14bfe01ab",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-4fcbc5d4-8306-4c98-b735-b3f14bfe01ab",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnNew",
+        "2": "New...",
+        "3": "",
+        "4": "btnNew",
+        "Source": "<Step x=\"1307\" y=\"74\" exe=\"CLStudio.exe\" wh=\"69040\" cmd=\"CLux12\" mouse=\"Move\" id=\"4fcbc5d4-8306-4c98-b735-b3f14bfe01ab\" ms=\"117619156\"><Arg1>btnNew</Arg1><Par2>btnNew</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>New...</Arg3><Par3><lt><l lcid=\"1033\">New...</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnNew</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">1262</l></lt></X><Y><lt><l lcid=\"1033\">44</l></lt></Y><W><lt><l lcid=\"1033\">88</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">345970</l></lt></Offset><Offset2><lt><l lcid=\"1033\">347584</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1306</l></lt></Rx><Ry><lt><l lcid=\"1033\">67</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnNew</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "1262, 44, 88, 46",
+      "Offset": 345970,
+      "TemplatedText": "Move the mouse to the button <b>New...</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "New..."
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "5fe21330-e2db-4b32-8a18-3a20714b246f",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-5fe21330-e2db-4b32-8a18-3a20714b246f",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnNew",
+        "2": "New...",
+        "3": "",
+        "4": "btnNew",
+        "Source": "<Step x=\"1332\" y=\"51\" exe=\"CLStudio.exe\" wh=\"69040\" cmd=\"CLux12\" mouse=\"Left\" id=\"5fe21330-e2db-4b32-8a18-3a20714b246f\" ms=\"117622171\"><Arg1>btnNew</Arg1><Par2>btnNew</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>New...</Arg3><Par3><lt><l lcid=\"1033\">New...</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnNew</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">1262</l></lt></X><Y><lt><l lcid=\"1033\">44</l></lt></Y><W><lt><l lcid=\"1033\">88</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">347584</l></lt></Offset><Offset2><lt><l lcid=\"1033\">347584</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1306</l></lt></Rx><Ry><lt><l lcid=\"1033\">67</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnNew</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "1262, 44, 88, 46",
+      "Offset": 347584,
+      "TemplatedText": "Click on the button <b>New...</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "New..."
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "254983da-e70f-4781-a065-1829122d97b5",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-254983da-e70f-4781-a065-1829122d97b5",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "RadContextMenuDropDown/ctxCreateFolder",
+        "2": "Create new folder",
+        "3": "ctxCreateFolder",
+        "entRect": "",
+        "4": "ctxCreateFolder",
+        "Source": "<Step x=\"1263\" y=\"100\" exe=\"CLStudio.exe\" wh=\"200594\" cmd=\"CLux12\" mouse=\"Move\" id=\"254983da-e70f-4781-a065-1829122d97b5\" ms=\"117623812\"><Arg1>RadContextMenuDropDown/ctxCreateFolder</Arg1><Par2>RadContextMenuDropDown/ctxCreateFolder</Par2><Arg2>Telerik_WinControls_UI_RadMenuItem</Arg2><Arg3>Create new folder</Arg3><Par3><lt><l lcid=\"1033\">Create new folder</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\">ctxCreateFolder</l></lt></Par4><Arg5>ctxCreateFolder</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadMenuItem</Par1><ParentRect><lt><l lcid=\"1033\" x=\"1095\" y=\"44\" w=\"215\" h=\"684\" /></lt></ParentRect><X><lt><l lcid=\"1033\">1096</l></lt></X><Y><lt><l lcid=\"1033\">83</l></lt></Y><W><lt><l lcid=\"1033\">215</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">569178</l></lt></Offset><Offset2><lt><l lcid=\"1033\">572598</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1203</l></lt></Rx><Ry><lt><l lcid=\"1033\">102</l></lt></Ry><Par5><lt><l lcid=\"1033\">ctxCreateFolder</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "1096, 83, 215, 38",
+      "Offset": 569178,
+      "TemplatedText": "Move the mouse to the menu item <b>Create new folder</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the menu item "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Create new folder"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "e4bbb829-6ea1-4261-97bd-392c1793f647",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-e4bbb829-6ea1-4261-97bd-392c1793f647",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "RadContextMenuDropDown/ctxOpenNewRecording",
+        "2": "Create new recording",
+        "3": "ctxOpenNewRecording",
+        "entRect": "",
+        "4": "ctxOpenNewRecording",
+        "Source": "<Step x=\"1263\" y=\"66\" exe=\"CLStudio.exe\" wh=\"200594\" cmd=\"CLux12\" mouse=\"Move\" id=\"e4bbb829-6ea1-4261-97bd-392c1793f647\" ms=\"117625078\"><Arg1>RadContextMenuDropDown/ctxOpenNewRecording</Arg1><Par2>RadContextMenuDropDown/ctxOpenNewRecording</Par2><Arg2>Telerik_WinControls_UI_RadMenuItem</Arg2><Arg3>Create new recording</Arg3><Par3><lt><l lcid=\"1033\">Create new recording</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\">ctxOpenNewRecording</l></lt></Par4><Arg5>ctxOpenNewRecording</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadMenuItem</Par1><ParentRect><lt><l lcid=\"1033\" x=\"1095\" y=\"44\" w=\"215\" h=\"684\" /></lt></ParentRect><X><lt><l lcid=\"1033\">1096</l></lt></X><Y><lt><l lcid=\"1033\">45</l></lt></Y><W><lt><l lcid=\"1033\">215</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">572598</l></lt></Offset><Offset2><lt><l lcid=\"1033\">579071</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1203</l></lt></Rx><Ry><lt><l lcid=\"1033\">64</l></lt></Ry><Par5><lt><l lcid=\"1033\">ctxOpenNewRecording</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "1096, 45, 215, 38",
+      "Offset": 572598,
+      "TemplatedText": "Move the mouse to the menu item <b>Create new recording</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the menu item "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Create new recording"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d56bc45c-2c17-4e8b-97d3-fdbe847b4160",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d56bc45c-2c17-4e8b-97d3-fdbe847b4160",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "RadContextMenuDropDown/ctxMultiFile",
+        "2": "Import from other project",
+        "3": "ctxMultiFile",
+        "entRect": "",
+        "4": "ctxMultiFile",
+        "Source": "<Step x=\"1243\" y=\"143\" exe=\"CLStudio.exe\" wh=\"200594\" cmd=\"CLux12\" mouse=\"Move\" id=\"d56bc45c-2c17-4e8b-97d3-fdbe847b4160\" ms=\"117626437\"><Arg1>RadContextMenuDropDown/ctxMultiFile</Arg1><Par2>RadContextMenuDropDown/ctxMultiFile</Par2><Arg2>Telerik_WinControls_UI_RadMenuItem</Arg2><Arg3>Import from other project</Arg3><Par3><lt><l lcid=\"1033\">Import from other project</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\">ctxMultiFile</l></lt></Par4><Arg5>ctxMultiFile</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadMenuItem</Par1><ParentRect><lt><l lcid=\"1033\" x=\"1095\" y=\"44\" w=\"215\" h=\"684\" /></lt></ParentRect><X><lt><l lcid=\"1033\">1096</l></lt></X><Y><lt><l lcid=\"1033\">121</l></lt></Y><W><lt><l lcid=\"1033\">215</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">579071</l></lt></Offset><Offset2><lt><l lcid=\"1033\">585725</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1203</l></lt></Rx><Ry><lt><l lcid=\"1033\">140</l></lt></Ry><Par5><lt><l lcid=\"1033\">ctxMultiFile</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "1096, 121, 215, 38",
+      "Offset": 579071,
+      "TemplatedText": "Move the mouse to the menu item <b>Import from other project</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the menu item "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Import from other project"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d80f8368-4b3c-41de-b827-737f54043cca",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d80f8368-4b3c-41de-b827-737f54043cca",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "RadContextMenuDropDown/ctxReplay",
+        "2": " Replay",
+        "3": "ctxReplay",
+        "entRect": "",
+        "4": "ctxReplay",
+        "Source": "<Step x=\"1142\" y=\"179\" exe=\"CLStudio.exe\" wh=\"200594\" cmd=\"CLux12\" mouse=\"Move\" id=\"d80f8368-4b3c-41de-b827-737f54043cca\" ms=\"117627671\"><Arg1>RadContextMenuDropDown/ctxReplay</Arg1><Par2>RadContextMenuDropDown/ctxReplay</Par2><Arg2>Telerik_WinControls_UI_RadMenuItem</Arg2><Arg3> Replay</Arg3><Par3><lt><l lcid=\"1033\"> Replay</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\">ctxReplay</l></lt></Par4><Arg5>ctxReplay</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadMenuItem</Par1><ParentRect><lt><l lcid=\"1033\" x=\"1095\" y=\"44\" w=\"215\" h=\"684\" /></lt></ParentRect><X><lt><l lcid=\"1033\">1096</l></lt></X><Y><lt><l lcid=\"1033\">159</l></lt></Y><W><lt><l lcid=\"1033\">215</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">585725</l></lt></Offset><Offset2><lt><l lcid=\"1033\">591405</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1203</l></lt></Rx><Ry><lt><l lcid=\"1033\">178</l></lt></Ry><Par5><lt><l lcid=\"1033\">ctxReplay</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "1096, 159, 215, 38",
+      "Offset": 585725,
+      "TemplatedText": "Move the mouse to the menu item <b> Replay</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the menu item "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": " Replay"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "7c6b06f6-93a1-4afa-a2ce-4106ea03c085",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-7c6b06f6-93a1-4afa-a2ce-4106ea03c085",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnImportRecording",
+        "2": "Add recordings",
+        "3": "",
+        "4": "btnImportRecording",
+        "Source": "<Step x=\"820\" y=\"280\" exe=\"CLStudio.exe\" wh=\"265994\" cmd=\"CLux12\" mouse=\"Left\" id=\"7c6b06f6-93a1-4afa-a2ce-4106ea03c085\" ms=\"117629062\"><Arg1>btnImportRecording</Arg1><Par2>btnImportRecording</Par2><Arg2>ClickLearnUX12_ccLinkButton</Arg2><Arg3>Add recordings</Arg3><Par3><lt><l lcid=\"1033\">Add recordings</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnImportRecording</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccLinkButton</Par1><X><lt><l lcid=\"1033\">732</l></lt></X><Y><lt><l lcid=\"1033\">274</l></lt></Y><W><lt><l lcid=\"1033\">131</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">591405</l></lt></Offset><Offset2><lt><l lcid=\"1033\">596694</l></lt></Offset2><Rx><lt><l lcid=\"1033\">797</l></lt></Rx><Ry><lt><l lcid=\"1033\">297</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnImportRecording</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "732, 274, 131, 46",
+      "Offset": 591405,
+      "TemplatedText": "Click on the button <b>Add recordings</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Add recordings"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "a9598700-6da9-45c9-a7af-a6c31f00b4de",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-a9598700-6da9-45c9-a7af-a6c31f00b4de",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lvSearch/NAME",
+        "2": "NAME",
+        "3": "",
+        "entRect": "",
+        "4": "NAME|Map16-7|PROJECT TYPE|Content",
+        "Source": "<Step x=\"620\" y=\"199\" exe=\"CLStudio.exe\" wh=\"266094\" cmd=\"CLux12\" mouse=\"Move\" id=\"a9598700-6da9-45c9-a7af-a6c31f00b4de\" ms=\"117631171\"><Arg1>lvSearch/NAME</Arg1><Par2>lvSearch/NAME</Par2><Arg2>Telerik_WinControls_UI_DetailListViewDataCellElement</Arg2><Arg3>NAME</Arg3><Par3><lt><l lcid=\"1033\">NAME</l></lt></Par3><Arg4>Map16-7</Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>NAME|Map16-7|PROJECT TYPE|Content</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_CustomDetailListViewDataCellElement</Par1><ParentRect><lt><l lcid=\"1033\" x=\"399\" y=\"140\" w=\"809\" h=\"463\" /></lt></ParentRect><X><lt><l lcid=\"1033\">419</l></lt></X><Y><lt><l lcid=\"1033\">235</l></lt></Y><W><lt><l lcid=\"1033\">290</l></lt></W><H><lt><l lcid=\"1033\">70</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">564</l></lt></Rx><Ry><lt><l lcid=\"1033\">270</l></lt></Ry><Par5><lt><l lcid=\"1033\">NAME|Map16-7|PROJECT TYPE|Content</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "419, 235, 290, 70",
+      "Offset": 756524,
+      "TemplatedText": "",
+      "DictionaryText": [],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "e89cd336-cebf-4b95-b430-6e1be13e1df4",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-e89cd336-cebf-4b95-b430-6e1be13e1df4",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lvSearch/PROJECTTYPE",
+        "2": "PROJECT TYPE",
+        "3": "Content",
+        "entRect": "",
+        "4": "NAME|Map16-7|PROJECT TYPE|Content",
+        "Source": "<Step x=\"845\" y=\"180\" exe=\"CLStudio.exe\" wh=\"266094\" cmd=\"CLux12\" mouse=\"Move\" id=\"e89cd336-cebf-4b95-b430-6e1be13e1df4\" ms=\"117632343\"><Arg1>lvSearch/PROJECTTYPE</Arg1><Par2>lvSearch/PROJECTTYPE</Par2><Arg2>Telerik_WinControls_UI_DetailListViewDataCellElement</Arg2><Arg3>PROJECT TYPE</Arg3><Par3><lt><l lcid=\"1033\">PROJECT TYPE</l></lt></Par3><Arg4>Content</Arg4><Par4><lt><l lcid=\"1033\">Content</l></lt></Par4><Arg5>NAME|Map16-7|PROJECT TYPE|Content</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_DetailListViewDataCellElement</Par1><ParentRect><lt><l lcid=\"1033\" x=\"399\" y=\"140\" w=\"809\" h=\"463\" /></lt></ParentRect><X><lt><l lcid=\"1033\">748</l></lt></X><Y><lt><l lcid=\"1033\">236</l></lt></Y><W><lt><l lcid=\"1033\">226</l></lt></W><H><lt><l lcid=\"1033\">70</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">861</l></lt></Rx><Ry><lt><l lcid=\"1033\">271</l></lt></Ry><Par5><lt><l lcid=\"1033\">NAME|Map16-7|PROJECT TYPE|Content</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "748, 236, 226, 70",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the cell <b>PROJECT TYPE</b> with value <b>Content</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the cell "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "PROJECT TYPE"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 1,
+          "tObj": null,
+          "tText": " with value "
+        },
+        {
+          "tIdx": 4,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 5,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Content"
+        },
+        {
+          "tIdx": 4,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 6,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "46f7955f-a6c1-4240-81c9-f4c47bfae99f",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-46f7955f-a6c1-4240-81c9-f4c47bfae99f",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lvSearch/LASTUPDATED",
+        "2": "LAST UPDATED",
+        "3": "31. Jul. 2020",
+        "entRect": "",
+        "4": "NAME|Map16-7|PROJECT TYPE|Content",
+        "Source": "<Step x=\"1057\" y=\"192\" exe=\"CLStudio.exe\" wh=\"266094\" cmd=\"CLux12\" mouse=\"Move\" id=\"46f7955f-a6c1-4240-81c9-f4c47bfae99f\" ms=\"117633593\"><Arg1>lvSearch/LASTUPDATED</Arg1><Par2>lvSearch/LASTUPDATED</Par2><Arg2>Telerik_WinControls_UI_DetailListViewDataCellElement</Arg2><Arg3>LAST UPDATED</Arg3><Par3><lt><l lcid=\"1033\">LAST UPDATED</l></lt></Par3><Arg4>31. Jul. 2020</Arg4><Par4><lt><l lcid=\"1033\">31. Jul. 2020</l></lt></Par4><Arg5>NAME|Map16-7|PROJECT TYPE|Content</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_DetailListViewDataCellElement</Par1><ParentRect><lt><l lcid=\"1033\" x=\"399\" y=\"140\" w=\"809\" h=\"463\" /></lt></ParentRect><X><lt><l lcid=\"1033\">973</l></lt></X><Y><lt><l lcid=\"1033\">236</l></lt></Y><W><lt><l lcid=\"1033\">219</l></lt></W><H><lt><l lcid=\"1033\">70</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1082</l></lt></Rx><Ry><lt><l lcid=\"1033\">271</l></lt></Ry><Par5><lt><l lcid=\"1033\">NAME|Map16-7|PROJECT TYPE|Content</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "973, 236, 219, 70",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the cell <b>LAST UPDATED</b> with value <b>31. Jul. 2020</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the cell "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "LAST UPDATED"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 1,
+          "tObj": null,
+          "tText": " with value "
+        },
+        {
+          "tIdx": 4,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 5,
+          "tType": 1,
+          "tObj": null,
+          "tText": "31. Jul. 2020"
+        },
+        {
+          "tIdx": 4,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 6,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "288c9c8c-eebe-469f-82c0-b019abbdb4f1",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-288c9c8c-eebe-469f-82c0-b019abbdb4f1",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "PROJECTTYPE",
+        "2": "PROJECT TYPE",
+        "3": "",
+        "entRect": "",
+        "4": "lvSearch/PROJECTTYPE",
+        "Source": "<Step x=\"912\" y=\"157\" exe=\"CLStudio.exe\" wh=\"266094\" cmd=\"CLux12\" mouse=\"Move\" id=\"288c9c8c-eebe-469f-82c0-b019abbdb4f1\" ms=\"117634906\"><Arg1>PROJECTTYPE</Arg1><Par2>PROJECTTYPE</Par2><Arg2>Telerik_WinControls_UI_DetailListViewHeaderCellElement</Arg2><Arg3>PROJECT TYPE</Arg3><Par3><lt><l lcid=\"1033\">PROJECT TYPE</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lvSearch/PROJECTTYPE</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_DetailListViewHeaderCellElement</Par1><ParentRect><lt><l lcid=\"1033\" x=\"399\" y=\"140\" w=\"809\" h=\"463\" /></lt></ParentRect><X><lt><l lcid=\"1033\">728</l></lt></X><Y><lt><l lcid=\"1033\">140</l></lt></Y><W><lt><l lcid=\"1033\">226</l></lt></W><H><lt><l lcid=\"1033\">26</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">841</l></lt></Rx><Ry><lt><l lcid=\"1033\">153</l></lt></Ry><Par5><lt><l lcid=\"1033\">lvSearch/PROJECTTYPE</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "728, 140, 226, 26",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the header cell <b>PROJECT TYPE</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the header cell "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "PROJECT TYPE"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "15d4e194-b65f-48f2-b493-bd8e6707d240",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-15d4e194-b65f-48f2-b493-bd8e6707d240",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "LASTUPDATED",
+        "2": "LAST UPDATED",
+        "3": "",
+        "entRect": "",
+        "4": "lvSearch/LASTUPDATED",
+        "Source": "<Step x=\"994\" y=\"157\" exe=\"CLStudio.exe\" wh=\"266094\" cmd=\"CLux12\" mouse=\"Move\" id=\"15d4e194-b65f-48f2-b493-bd8e6707d240\" ms=\"117636046\"><Arg1>LASTUPDATED</Arg1><Par2>LASTUPDATED</Par2><Arg2>Telerik_WinControls_UI_DetailListViewHeaderCellElement</Arg2><Arg3>LAST UPDATED</Arg3><Par3><lt><l lcid=\"1033\">LAST UPDATED</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lvSearch/LASTUPDATED</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_DetailListViewHeaderCellElement</Par1><ParentRect><lt><l lcid=\"1033\" x=\"399\" y=\"140\" w=\"809\" h=\"463\" /></lt></ParentRect><X><lt><l lcid=\"1033\">953</l></lt></X><Y><lt><l lcid=\"1033\">140</l></lt></Y><W><lt><l lcid=\"1033\">235</l></lt></W><H><lt><l lcid=\"1033\">26</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">1070</l></lt></Rx><Ry><lt><l lcid=\"1033\">153</l></lt></Ry><Par5><lt><l lcid=\"1033\">lvSearch/LASTUPDATED</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "953, 140, 235, 26",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the header cell <b>LAST UPDATED</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the header cell "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "LAST UPDATED"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "b07e91d1-c593-472c-8987-8b56e3ccf5d6",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-b07e91d1-c593-472c-8987-8b56e3ccf5d6",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "NAME",
+        "2": "NAME",
+        "3": "",
+        "entRect": "",
+        "4": "lvSearch/NAME",
+        "Source": "<Step x=\"653\" y=\"157\" exe=\"CLStudio.exe\" wh=\"266094\" cmd=\"CLux12\" mouse=\"Move\" id=\"b07e91d1-c593-472c-8987-8b56e3ccf5d6\" ms=\"117637468\"><Arg1>NAME</Arg1><Par2>NAME</Par2><Arg2>Telerik_WinControls_UI_DetailListViewHeaderCellElement</Arg2><Arg3>NAME</Arg3><Par3><lt><l lcid=\"1033\">NAME</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lvSearch/NAME</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_DetailListViewHeaderCellElement</Par1><ParentRect><lt><l lcid=\"1033\" x=\"399\" y=\"140\" w=\"809\" h=\"463\" /></lt></ParentRect><X><lt><l lcid=\"1033\">419</l></lt></X><Y><lt><l lcid=\"1033\">140</l></lt></Y><W><lt><l lcid=\"1033\">310</l></lt></W><H><lt><l lcid=\"1033\">26</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">574</l></lt></Rx><Ry><lt><l lcid=\"1033\">153</l></lt></Ry><Par5><lt><l lcid=\"1033\">lvSearch/NAME</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "419, 140, 310, 26",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the header cell <b>NAME</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the header cell "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "NAME"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "1f970294-09e8-41b4-85b3-3c3931af8e71",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-1f970294-09e8-41b4-85b3-3c3931af8e71",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnFindprojects",
+        "2": "Find project",
+        "3": "",
+        "4": "btnFindprojects",
+        "Source": "<Step x=\"197\" y=\"152\" exe=\"CLStudio.exe\" wh=\"200498\" cmd=\"CLux12\" mouse=\"Move\" id=\"1f970294-09e8-41b4-85b3-3c3931af8e71\" ms=\"117638812\"><Arg1>btnFindprojects</Arg1><Par2>btnFindprojects</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Find project</Arg3><Par3><lt><l lcid=\"1033\">Find project</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnFindprojects</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">158</l></lt></X><Y><lt><l lcid=\"1033\">119</l></lt></Y><W><lt><l lcid=\"1033\">240</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">278</l></lt></Rx><Ry><lt><l lcid=\"1033\">138</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnFindprojects</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "158, 119, 240, 38",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the button <b>Find project</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Find project"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d0f51404-878c-42f4-b630-688a17f66679",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d0f51404-878c-42f4-b630-688a17f66679",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnAddFromMyComputer",
+        "2": "Add from My Computer",
+        "3": "",
+        "4": "btnAddFromMyComputer",
+        "Source": "<Step x=\"211\" y=\"171\" exe=\"CLStudio.exe\" wh=\"134988\" cmd=\"CLux12\" mouse=\"Move\" id=\"d0f51404-878c-42f4-b630-688a17f66679\" ms=\"117640031\"><Arg1>btnAddFromMyComputer</Arg1><Par2>btnAddFromMyComputer</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Add from My Computer</Arg3><Par3><lt><l lcid=\"1033\">Add from My Computer</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnAddFromMyComputer</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">158</l></lt></X><Y><lt><l lcid=\"1033\">157</l></lt></Y><W><lt><l lcid=\"1033\">240</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">756524</l></lt></Offset2><Rx><lt><l lcid=\"1033\">278</l></lt></Rx><Ry><lt><l lcid=\"1033\">176</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnAddFromMyComputer</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "158, 157, 240, 38",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the button <b>Add from My Computer</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Add from My Computer"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d223c296-f457-4039-aaff-b0e40a283fee",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d223c296-f457-4039-aaff-b0e40a283fee",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnOpen",
+        "2": "Open",
+        "3": "",
+        "4": "btnOpen",
+        "Source": "<Step x=\"261\" y=\"648\" exe=\"CLStudio.exe\" wh=\"134644\" cmd=\"CLux12\" mouse=\"Move\" id=\"d223c296-f457-4039-aaff-b0e40a283fee\" ms=\"117641843\"><Arg1>btnOpen</Arg1><Par2>btnOpen</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Open</Arg3><Par3><lt><l lcid=\"1033\">Open</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnOpen</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">188</l></lt></X><Y><lt><l lcid=\"1033\">624</l></lt></Y><W><lt><l lcid=\"1033\">125</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">756524</l></lt></Offset><Offset2><lt><l lcid=\"1033\">758309</l></lt></Offset2><Rx><lt><l lcid=\"1033\">250</l></lt></Rx><Ry><lt><l lcid=\"1033\">647</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnOpen</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "188, 624, 125, 46",
+      "Offset": 756524,
+      "TemplatedText": "Move the mouse to the button <b>Open</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Open"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "dbdbd5c1-83fc-4e6e-bb04-74b6925003b8",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-dbdbd5c1-83fc-4e6e-bb04-74b6925003b8",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnCancel",
+        "2": "Cancel",
+        "3": "",
+        "4": "btnCancel",
+        "Source": "<Step x=\"361\" y=\"662\" exe=\"CLStudio.exe\" wh=\"134646\" cmd=\"CLux12\" mouse=\"Move\" id=\"dbdbd5c1-83fc-4e6e-bb04-74b6925003b8\" ms=\"117643859\"><Arg1>btnCancel</Arg1><Par2>btnCancel</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Cancel</Arg3><Par3><lt><l lcid=\"1033\">Cancel</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnCancel</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">318</l></lt></X><Y><lt><l lcid=\"1033\">624</l></lt></Y><W><lt><l lcid=\"1033\">82</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">758509</l></lt></Offset><Offset2><lt><l lcid=\"1033\">762238</l></lt></Offset2><Rx><lt><l lcid=\"1033\">359</l></lt></Rx><Ry><lt><l lcid=\"1033\">647</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnCancel</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "318, 624, 82, 46",
+      "Offset": 758509,
+      "TemplatedText": "Move the mouse to the button <b>Cancel</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Cancel"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "3928179e-82b2-463d-aaa1-148b8507e034",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-3928179e-82b2-463d-aaa1-148b8507e034",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnCancel",
+        "2": "Cancel",
+        "3": "",
+        "4": "btnCancel",
+        "Source": "<Step x=\"353\" y=\"630\" exe=\"CLStudio.exe\" wh=\"134646\" cmd=\"CLux12\" mouse=\"Left\" id=\"3928179e-82b2-463d-aaa1-148b8507e034\" ms=\"117651593\"><Arg1>btnCancel</Arg1><Par2>btnCancel</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Cancel</Arg3><Par3><lt><l lcid=\"1033\">Cancel</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnCancel</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">318</l></lt></X><Y><lt><l lcid=\"1033\">624</l></lt></Y><W><lt><l lcid=\"1033\">82</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"155\" y=\"36\" w=\"1056\" h=\"656\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"158\" y=\"62\" w=\"1050\" h=\"627\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">762238</l></lt></Offset><Offset2><lt><l lcid=\"1033\">762238</l></lt></Offset2><Rx><lt><l lcid=\"1033\">359</l></lt></Rx><Ry><lt><l lcid=\"1033\">647</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnCancel</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "318, 624, 82, 46",
+      "Offset": 762238,
+      "TemplatedText": "Click on the button <b>Cancel</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Cancel"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "5b999c41-2366-4dcd-9d6d-775fcfd86451",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-5b999c41-2366-4dcd-9d6d-775fcfd86451",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnStartNewRecording",
+        "2": "Start new recording",
+        "3": "",
+        "4": "btnStartNewRecording",
+        "Source": "<Step x=\"709\" y=\"292\" exe=\"CLStudio.exe\" wh=\"265996\" cmd=\"CLux12\" mouse=\"Left\" id=\"5b999c41-2366-4dcd-9d6d-775fcfd86451\" ms=\"117653750\"><Arg1>btnStartNewRecording</Arg1><Par2>btnStartNewRecording</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Start new recording</Arg3><Par3><lt><l lcid=\"1033\">Start new recording</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnStartNewRecording</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">564</l></lt></X><Y><lt><l lcid=\"1033\">274</l></lt></Y><W><lt><l lcid=\"1033\">154</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">954284</l></lt></Offset><Offset2><lt><l lcid=\"1033\">957082</l></lt></Offset2><Rx><lt><l lcid=\"1033\">641</l></lt></Rx><Ry><lt><l lcid=\"1033\">297</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnStartNewRecording</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "564, 274, 154, 46",
+      "Offset": 954284,
+      "TemplatedText": "Click on the button <b>Start new recording</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Start new recording"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "a2ea387b-ccf3-4a70-a2cd-38d88bbae75c",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-a2ea387b-ccf3-4a70-a2cd-38d88bbae75c",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "txtRecordingName",
+        "2": "RecordingName",
+        "3": "",
+        "4": "txtRecordingName",
+        "Source": "<Step x=\"736\" y=\"206\" exe=\"CLStudio.exe\" wh=\"266034\" cmd=\"CLux12\" mouse=\"Move\" id=\"a2ea387b-ccf3-4a70-a2cd-38d88bbae75c\" ms=\"117657187\"><Arg1>txtRecordingName</Arg1><Par2>txtRecordingName</Par2><Arg2>ClickLearnUX12_ccTextBox</Arg2><Arg3>RecordingName</Arg3><Par3><lt><l lcid=\"1033\">RecordingName</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>txtRecordingName</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccTextBox</Par1><X><lt><l lcid=\"1033\">433</l></lt></X><Y><lt><l lcid=\"1033\">192</l></lt></Y><W><lt><l lcid=\"1033\">500</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1031168</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1031168</l></lt></Offset2><Rx><lt><l lcid=\"1033\">683</l></lt></Rx><Ry><lt><l lcid=\"1033\">211</l></lt></Ry><Par5><lt><l lcid=\"1033\">txtRecordingName</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "433, 192, 500, 38",
+      "Offset": 1031168,
+      "TemplatedText": "Move the mouse to the textbox <b>RecordingName</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the textbox "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "RecordingName"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "7a4f61d2-d9ba-4208-b7cf-1e7999b86a70",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-7a4f61d2-d9ba-4208-b7cf-1e7999b86a70",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblRecordingDescription",
+        "2": "Please enter the name of the recording",
+        "3": "",
+        "4": "lblRecordingDescription",
+        "Source": "<Step x=\"760\" y=\"161\" exe=\"CLStudio.exe\" wh=\"528258\" cmd=\"CLux12\" mouse=\"Move\" id=\"7a4f61d2-d9ba-4208-b7cf-1e7999b86a70\" ms=\"117659250\"><Arg1>lblRecordingDescription</Arg1><Par2>lblRecordingDescription</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Please enter the name of the recording</Arg3><Par3><lt><l lcid=\"1033\">Please enter the name of the recording</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblRecordingDescription</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">568</l></lt></X><Y><lt><l lcid=\"1033\">160</l></lt></Y><W><lt><l lcid=\"1033\">270</l></lt></W><H><lt><l lcid=\"1033\">21</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1031168</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1031168</l></lt></Offset2><Rx><lt><l lcid=\"1033\">703</l></lt></Rx><Ry><lt><l lcid=\"1033\">170</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblRecordingDescription</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "568, 160, 270, 21",
+      "Offset": 1031168,
+      "TemplatedText": "Move the mouse to the label <b>Please enter the name of the recording</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Please enter the name of the recording"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "0773669c-e99e-4b15-bc37-89f9caf5668d",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-0773669c-e99e-4b15-bc37-89f9caf5668d",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblLocationDescription",
+        "2": "Please select where you want the recording to be located",
+        "3": "",
+        "4": "lblLocationDescription",
+        "Source": "<Step x=\"614\" y=\"430\" exe=\"CLStudio.exe\" wh=\"266104\" cmd=\"CLux12\" mouse=\"Move\" id=\"0773669c-e99e-4b15-bc37-89f9caf5668d\" ms=\"117660843\"><Arg1>lblLocationDescription</Arg1><Par2>lblLocationDescription</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Please select where you want the recording to be located</Arg3><Par3><lt><l lcid=\"1033\">Please select where you want the recording to be located</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblLocationDescription</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">503</l></lt></X><Y><lt><l lcid=\"1033\">424</l></lt></Y><W><lt><l lcid=\"1033\">384</l></lt></W><H><lt><l lcid=\"1033\">20</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1031168</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1031168</l></lt></Offset2><Rx><lt><l lcid=\"1033\">695</l></lt></Rx><Ry><lt><l lcid=\"1033\">434</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblLocationDescription</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "503, 424, 384, 20",
+      "Offset": 1031168,
+      "TemplatedText": "Move the mouse to the label <b>Please select where you want the recording to be located</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Please select where you want the recording to be located"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "63e618a3-5b97-420a-b9fa-a241c6e0329e",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-63e618a3-5b97-420a-b9fa-a241c6e0329e",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnSelectLanguage",
+        "2": "Change",
+        "3": "",
+        "4": "btnSelectLanguage",
+        "Source": "<Step x=\"897\" y=\"342\" exe=\"CLStudio.exe\" wh=\"266024\" cmd=\"CLux12\" mouse=\"Left\" id=\"63e618a3-5b97-420a-b9fa-a241c6e0329e\" ms=\"117662312\"><Arg1>btnSelectLanguage</Arg1><Par2>btnSelectLanguage</Par2><Arg2>ClickLearnUX12_ccLinkButton</Arg2><Arg3>Change</Arg3><Par3><lt><l lcid=\"1033\">Change</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnSelectLanguage</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccLinkButton</Par1><X><lt><l lcid=\"1033\">865</l></lt></X><Y><lt><l lcid=\"1033\">329</l></lt></Y><W><lt><l lcid=\"1033\">59</l></lt></W><H><lt><l lcid=\"1033\">31</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1031168</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1032750</l></lt></Offset2><Rx><lt><l lcid=\"1033\">894</l></lt></Rx><Ry><lt><l lcid=\"1033\">344</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnSelectLanguage</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "865, 329, 59, 31",
+      "Offset": 1031168,
+      "TemplatedText": "Click on the button <b>Change</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Change"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d4624b5c-7620-495d-b7cb-304be92584e7",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d4624b5c-7620-495d-b7cb-304be92584e7",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnCancel",
+        "2": "Cancel",
+        "3": "",
+        "4": "btnCancel",
+        "Source": "<Step x=\"618\" y=\"667\" exe=\"CLStudio.exe\" wh=\"396568\" cmd=\"CLux12\" mouse=\"Left\" id=\"d4624b5c-7620-495d-b7cb-304be92584e7\" ms=\"117669250\"><Arg1>btnCancel</Arg1><Par2>btnCancel</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Cancel</Arg3><Par3><lt><l lcid=\"1033\">Cancel</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnCancel</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">578</l></lt></X><Y><lt><l lcid=\"1033\">644</l></lt></Y><W><lt><l lcid=\"1033\">82</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"413\" y=\"10\" w=\"540\" h=\"708\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"421\" y=\"41\" w=\"524\" h=\"669\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1129269</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1131188</l></lt></Offset2><Rx><lt><l lcid=\"1033\">619</l></lt></Rx><Ry><lt><l lcid=\"1033\">667</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnCancel</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "578, 644, 82, 46",
+      "Offset": 1129269,
+      "TemplatedText": "Click on the button <b>Cancel</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Cancel"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "81175a7f-ffe3-4e74-b5e4-356d0632501e",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-81175a7f-ffe3-4e74-b5e4-356d0632501e",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblLocationData",
+        "2": "Recordings",
+        "3": "",
+        "4": "lblLocationData",
+        "Source": "<Step x=\"555\" y=\"499\" exe=\"CLStudio.exe\" wh=\"266036\" cmd=\"CLux12\" mouse=\"Move\" id=\"81175a7f-ffe3-4e74-b5e4-356d0632501e\" ms=\"117671750\"><Arg1>lblLocationData</Arg1><Par2>lblLocationData</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Recordings</Arg3><Par3><lt><l lcid=\"1033\">Recordings</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblLocationData</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">446</l></lt></X><Y><lt><l lcid=\"1033\">469</l></lt></Y><W><lt><l lcid=\"1033\">415</l></lt></W><H><lt><l lcid=\"1033\">31</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1234754</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1234754</l></lt></Offset2><Rx><lt><l lcid=\"1033\">653</l></lt></Rx><Ry><lt><l lcid=\"1033\">484</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblLocationData</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "446, 469, 415, 31",
+      "Offset": 1234754,
+      "TemplatedText": "Move the mouse to the label <b>Recordings</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Recordings"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "822feb28-7830-4292-bce4-4721751759ad",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-822feb28-7830-4292-bce4-4721751759ad",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "chkShowGuide",
+        "2": "Show guide?",
+        "3": "False",
+        "4": "",
+        "Source": "<Step x=\"699\" y=\"576\" exe=\"CLStudio.exe\" wh=\"200518\" cmd=\"CLux12\" mouse=\"Move\" id=\"822feb28-7830-4292-bce4-4721751759ad\" ms=\"117673890\"><Arg1>chkShowGuide</Arg1><Par2>chkShowGuide</Par2><Arg2>Telerik_WinControls_UI_RadCheckBox</Arg2><Arg3>Show guide?</Arg3><Par3><lt><l lcid=\"1033\">Show guide?</l></lt></Par3><Arg4>False</Arg4><Par4><lt><l lcid=\"1033\">False</l></lt></Par4><Arg5></Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadCheckBox</Par1><X><lt><l lcid=\"1033\">668</l></lt></X><Y><lt><l lcid=\"1033\">572</l></lt></Y><W><lt><l lcid=\"1033\">111</l></lt></W><H><lt><l lcid=\"1033\">21</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1234754</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1234754</l></lt></Offset2><Rx><lt><l lcid=\"1033\">723</l></lt></Rx><Ry><lt><l lcid=\"1033\">582</l></lt></Ry><Par5><lt><l lcid=\"1033\"></l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "668, 572, 111, 21",
+      "Offset": 1234754,
+      "TemplatedText": "",
+      "DictionaryText": [],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "50c9e41a-07d3-4a29-8fca-225b58a7ac05",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-50c9e41a-07d3-4a29-8fca-225b58a7ac05",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnCancel",
+        "2": "Cancel",
+        "3": "",
+        "4": "btnCancel",
+        "Source": "<Step x=\"562\" y=\"575\" exe=\"CLStudio.exe\" wh=\"593392\" cmd=\"CLux12\" mouse=\"Left\" id=\"50c9e41a-07d3-4a29-8fca-225b58a7ac05\" ms=\"117676046\"><Arg1>btnCancel</Arg1><Par2>btnCancel</Par2><Arg2>ClickLearnUX12_ccButton</Arg2><Arg3>Cancel</Arg3><Par3><lt><l lcid=\"1033\">Cancel</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnCancel</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ccButton</Par1><X><lt><l lcid=\"1033\">562</l></lt></X><Y><lt><l lcid=\"1033\">560</l></lt></Y><W><lt><l lcid=\"1033\">82</l></lt></W><H><lt><l lcid=\"1033\">46</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"408\" y=\"102\" w=\"550\" h=\"524\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"411\" y=\"128\" w=\"544\" h=\"495\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1234754</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1236673</l></lt></Offset2><Rx><lt><l lcid=\"1033\">603</l></lt></Rx><Ry><lt><l lcid=\"1033\">583</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnCancel</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "562, 560, 82, 46",
+      "Offset": 1234754,
+      "TemplatedText": "Click on the button <b>Cancel</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Cancel"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "a76d9509-807e-477f-9060-5be8015cbc6a",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-a76d9509-807e-477f-9060-5be8015cbc6a",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnNotification",
+        "2": "Notification (2)",
+        "3": "",
+        "4": "btnNotification",
+        "Source": "<Step x=\"31\" y=\"664\" exe=\"CLStudio.exe\" wh=\"394750\" cmd=\"CLux12\" mouse=\"Move\" id=\"a76d9509-807e-477f-9060-5be8015cbc6a\" ms=\"117678062\"><Arg1>btnNotification</Arg1><Par2>btnNotification</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Notification (2)</Arg3><Par3><lt><l lcid=\"1033\">Notification (2)</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnNotification</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">633</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1360153</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1361641</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">649</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnNotification</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 633, 32, 32",
+      "Offset": 1360153,
+      "TemplatedText": "Move the mouse to the button <b>Notification (2)</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Notification (2)"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "89d65b6a-9f8f-43d2-80d9-0c027c8e79cd",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-89d65b6a-9f8f-43d2-80d9-0c027c8e79cd",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnHelp",
+        "2": "Get Help",
+        "3": "",
+        "4": "btnHelp",
+        "Source": "<Step x=\"39\" y=\"613\" exe=\"CLStudio.exe\" wh=\"263686\" cmd=\"CLux12\" mouse=\"Move\" id=\"89d65b6a-9f8f-43d2-80d9-0c027c8e79cd\" ms=\"117679375\"><Arg1>btnHelp</Arg1><Par2>btnHelp</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Get Help</Arg3><Par3><lt><l lcid=\"1033\">Get Help</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnHelp</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">593</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1364115</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1368041</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">609</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnHelp</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 593, 32, 32",
+      "Offset": 1364115,
+      "TemplatedText": "Move the mouse to the button <b>Get Help</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Get Help"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "4a720d8f-2c77-4827-9823-73e65103a075",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-4a720d8f-2c77-4827-9823-73e65103a075",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnGlobalSearch",
+        "2": "Search (CTRL+F)",
+        "3": "",
+        "4": "btnGlobalSearch",
+        "Source": "<Step x=\"37\" y=\"568\" exe=\"CLStudio.exe\" wh=\"329224\" cmd=\"CLux12\" mouse=\"Move\" id=\"4a720d8f-2c77-4827-9823-73e65103a075\" ms=\"117680593\"><Arg1>btnGlobalSearch</Arg1><Par2>btnGlobalSearch</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Search (CTRL+F)</Arg3><Par3><lt><l lcid=\"1033\">Search (CTRL+F)</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnGlobalSearch</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">553</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1370100</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1374050</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">569</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnGlobalSearch</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 553, 32, 32",
+      "Offset": 1370100,
+      "TemplatedText": "Move the mouse to the button <b>Search (CTRL+F)</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Search (CTRL+F)"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "6fd46027-1365-4897-8c8e-cac7b4a4fd2d",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-6fd46027-1365-4897-8c8e-cac7b4a4fd2d",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblIcon",
+        "2": "Profile",
+        "3": "",
+        "4": "lblIcon",
+        "Source": "<Step x=\"19\" y=\"705\" exe=\"CLStudio.exe\" wh=\"263332\" cmd=\"CLux12\" mouse=\"Move\" id=\"6fd46027-1365-4897-8c8e-cac7b4a4fd2d\" ms=\"117684468\"><Arg1>lblIcon</Arg1><Par2>lblIcon</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Profile</Arg3><Par3><lt><l lcid=\"1033\">Profile</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblIcon</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">13</l></lt></X><Y><lt><l lcid=\"1033\">673</l></lt></Y><W><lt><l lcid=\"1033\">38</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1376710</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1378868</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">692</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblIcon</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "13, 673, 38, 38",
+      "Offset": 1376710,
+      "TemplatedText": "Move the mouse to the label <b>Profile</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Profile"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "97b80d55-caa7-4f7a-aa3c-49c40cc52917",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-97b80d55-caa7-4f7a-aa3c-49c40cc52917",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblIcon",
+        "2": "Profile",
+        "3": "",
+        "4": "lblIcon",
+        "Source": "<Step x=\"48\" y=\"687\" exe=\"CLStudio.exe\" wh=\"263332\" cmd=\"CLux12\" mouse=\"Left\" id=\"97b80d55-caa7-4f7a-aa3c-49c40cc52917\" ms=\"117694203\"><Arg1>lblIcon</Arg1><Par2>lblIcon</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Profile</Arg3><Par3><lt><l lcid=\"1033\">Profile</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblIcon</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">13</l></lt></X><Y><lt><l lcid=\"1033\">673</l></lt></Y><W><lt><l lcid=\"1033\">38</l></lt></W><H><lt><l lcid=\"1033\">38</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1380802</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1380802</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">692</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblIcon</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "13, 673, 38, 38",
+      "Offset": 1380802,
+      "TemplatedText": "Click on the label <b>Profile</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Profile"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "b7eadf2a-515f-4960-b20d-c3840ca32398",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-b7eadf2a-515f-4960-b20d-c3840ca32398",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnNotification",
+        "2": "Notification (2)",
+        "3": "",
+        "4": "btnNotification",
+        "Source": "<Step x=\"24\" y=\"649\" exe=\"CLStudio.exe\" wh=\"394750\" cmd=\"CLux12\" mouse=\"Left\" id=\"b7eadf2a-515f-4960-b20d-c3840ca32398\" ms=\"117703125\"><Arg1>btnNotification</Arg1><Par2>btnNotification</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Notification (2)</Arg3><Par3><lt><l lcid=\"1033\">Notification (2)</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnNotification</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">633</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1422461</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1425634</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">649</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnNotification</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 633, 32, 32",
+      "Offset": 1422461,
+      "TemplatedText": "Click on the button <b>Notification (2)</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Notification (2)"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "d7be1450-32e7-472d-a41a-a64daf234568",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-d7be1450-32e7-472d-a41a-a64daf234568",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnHelp",
+        "2": "Get Help",
+        "3": "",
+        "4": "btnHelp",
+        "Source": "<Step x=\"36\" y=\"608\" exe=\"CLStudio.exe\" wh=\"263686\" cmd=\"CLux12\" mouse=\"Left\" id=\"d7be1450-32e7-472d-a41a-a64daf234568\" ms=\"117712140\"><Arg1>btnHelp</Arg1><Par2>btnHelp</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Get Help</Arg3><Par3><lt><l lcid=\"1033\">Get Help</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnHelp</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">593</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1470708</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1474833</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">609</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnHelp</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 593, 32, 32",
+      "Offset": 1470708,
+      "TemplatedText": "Click on the button <b>Get Help</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Get Help"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "b3e1c98b-c013-4d6f-b2ac-e341fe12e48c",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-b3e1c98b-c013-4d6f-b2ac-e341fe12e48c",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnGlobalSearch",
+        "2": "Search (CTRL+F)",
+        "3": "",
+        "4": "btnGlobalSearch",
+        "Source": "<Step x=\"30\" y=\"559\" exe=\"CLStudio.exe\" wh=\"329224\" cmd=\"CLux12\" mouse=\"Left\" id=\"b3e1c98b-c013-4d6f-b2ac-e341fe12e48c\" ms=\"117720078\"><Arg1>btnGlobalSearch</Arg1><Par2>btnGlobalSearch</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>Search (CTRL+F)</Arg3><Par3><lt><l lcid=\"1033\">Search (CTRL+F)</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnGlobalSearch</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">553</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1519538</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1523880</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">569</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnGlobalSearch</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 553, 32, 32",
+      "Offset": 1519538,
+      "TemplatedText": "Click on the button <b>Search (CTRL+F)</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Search (CTRL+F)"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "513575c9-3029-4f9f-832c-d7d484dbc225",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-513575c9-3029-4f9f-832c-d7d484dbc225",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "txtSearch",
+        "2": "",
+        "3": "",
+        "4": "txtSearch",
+        "Source": "<Step x=\"545\" y=\"258\" exe=\"CLStudio.exe\" wh=\"724838\" cmd=\"CLux12\" mouse=\"Left\" id=\"513575c9-3029-4f9f-832c-d7d484dbc225\" ms=\"117724703\"><Arg1>txtSearch</Arg1><Par2>txtSearch</Par2><Arg2>Telerik_WinControls_UI_RadTextBoxControl</Arg2><Arg3>Search</Arg3><Par3><lt><l lcid=\"1033\"></l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>txtSearch</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadTextBoxControl</Par1><X><lt><l lcid=\"1033\">373</l></lt></X><Y><lt><l lcid=\"1033\">225</l></lt></Y><W><lt><l lcid=\"1033\">636</l></lt></W><H><lt><l lcid=\"1033\">60</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1557476</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1559634</l></lt></Offset2><Rx><lt><l lcid=\"1033\">691</l></lt></Rx><Ry><lt><l lcid=\"1033\">255</l></lt></Ry><Par5><lt><l lcid=\"1033\">txtSearch</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "373, 225, 636, 60",
+      "Offset": 1557476,
+      "TemplatedText": "Click on the textbox <b></b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the textbox "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "0ef92261-d9aa-4c91-a2c5-86ffb7452916",
+      "Cmd": "Keyboard",
+      "ImageFileName": "EmptyProject-0ef92261-d9aa-4c91-a2c5-86ffb7452916",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "r",
+        "2": "",
+        "Source": "<Step id=\"0ef92261-d9aa-4c91-a2c5-86ffb7452916\" ms=\"117732484\" cmd=\"Keyboard\"><Arg1>r</Arg1><Par1>KEYBOARD</Par1><Par2>r<lt><l lcid=\"1033\">r</l></lt></Par2><X><lt><l lcid=\"1033\">-8</l></lt></X><Y><lt><l lcid=\"1033\">-8</l></lt></Y><W><lt><l lcid=\"1033\">16</l></lt></W><H><lt><l lcid=\"1033\">16</l></lt></H><Offset><lt><l lcid=\"1033\">1559995</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1561966</l></lt></Offset2><Par3><lt><l lcid=\"1033\"></l></lt></Par3><Rkbd>r</Rkbd><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient></Step>",
+        "0": "Keyboard"
+      },
+      "Rect": "373, 225, 636, 60",
+      "Offset": 1559995,
+      "TemplatedText": "Enter the text <font color=\"red\"><b>r</b></font>.<br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Enter the text "
+        },
+        {
+          "tIdx": 1,
+          "tType": 0,
+          "tObj": {
+            "font": {
+              "@color": "red",
+              "b": "r"
+            }
+          },
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 1,
+          "tObj": null,
+          "tText": "r"
+        },
+        {
+          "tIdx": 2,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 4,
+          "tType": 1,
+          "tObj": null,
+          "tText": "."
+        },
+        {
+          "tIdx": 5,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "35450cd6-b9ed-4485-b1e0-e24d4c361058",
+      "Cmd": "Keyboard",
+      "ImageFileName": "EmptyProject-35450cd6-b9ed-4485-b1e0-e24d4c361058",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "r",
+        "2": "",
+        "Source": "<Step id=\"35450cd6-b9ed-4485-b1e0-e24d4c361058\" ms=\"117732531\" cmd=\"Keyboard\"><Arg1>r</Arg1><Par1>KEYBOARD</Par1><Par2>r<lt><l lcid=\"1033\">r</l></lt></Par2><X><lt><l lcid=\"1033\">-8</l></lt></X><Y><lt><l lcid=\"1033\">-8</l></lt></Y><W><lt><l lcid=\"1033\">16</l></lt></W><H><lt><l lcid=\"1033\">16</l></lt></H><Offset><lt><l lcid=\"1033\">1593856</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1614153</l></lt></Offset2><Par3><lt><l lcid=\"1033\"></l></lt></Par3><Rkbd>r</Rkbd><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient></Step>",
+        "0": "Keyboard"
+      },
+      "Rect": "373, 225, 636, 60",
+      "Offset": 1593856,
+      "TemplatedText": "Enter the text <font color=\"red\"><b>r</b></font>.<br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Enter the text "
+        },
+        {
+          "tIdx": 1,
+          "tType": 0,
+          "tObj": {
+            "font": {
+              "@color": "red",
+              "b": "r"
+            }
+          },
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 1,
+          "tObj": null,
+          "tText": "r"
+        },
+        {
+          "tIdx": 2,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 4,
+          "tType": 1,
+          "tObj": null,
+          "tText": "."
+        },
+        {
+          "tIdx": 5,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "19d0cfcd-1529-407d-93fa-3855c20cac5d",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-19d0cfcd-1529-407d-93fa-3855c20cac5d",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "Recording assets",
+        "2": "Recording assets",
+        "3": "",
+        "entRect": "",
+        "4": "Recording assetsMapUXTesting    Assets ",
+        "Source": "<Step x=\"559\" y=\"352\" exe=\"CLStudio.exe\" wh=\"921454\" cmd=\"CLux12\" mouse=\"Move\" id=\"19d0cfcd-1529-407d-93fa-3855c20cac5d\" ms=\"117733671\"><Arg1>Recording assets</Arg1><Par2>Recording assets</Par2><Arg2>ClickLearnUX12_ListViewLightVisual</Arg2><Arg3>Recording assets</Arg3><Par3><lt><l lcid=\"1033\">Recording assets</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>Recording assetsMapUXTesting    Assets </Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ListViewLightVisual</Par1><ParentRect><lt><l lcid=\"1033\" x=\"371\" y=\"287\" w=\"640\" h=\"141\" /></lt></ParentRect><X><lt><l lcid=\"1033\">388</l></lt></X><Y><lt><l lcid=\"1033\">376</l></lt></Y><W><lt><l lcid=\"1033\">606</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1643565</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1650391</l></lt></Offset2><Rx><lt><l lcid=\"1033\">691</l></lt></Rx><Ry><lt><l lcid=\"1033\">400</l></lt></Ry><Par5><lt><l lcid=\"1033\">Recording assetsMapUXTesting    Assets </l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "388, 376, 606, 48",
+      "Offset": 1643565,
+      "TemplatedText": "Move the mouse to the list item <b>Recording assets</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the list item "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Recording assets"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "5d59d902-fe8c-4a7e-91f6-928709910fe5",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-5d59d902-fe8c-4a7e-91f6-928709910fe5",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "Recording assets",
+        "2": "Recording assets",
+        "3": "",
+        "entRect": "",
+        "4": "Recording assetsMap-    Assets ",
+        "Source": "<Step x=\"573\" y=\"391\" exe=\"CLStudio.exe\" wh=\"921454\" cmd=\"CLux12\" mouse=\"Move\" id=\"5d59d902-fe8c-4a7e-91f6-928709910fe5\" ms=\"117734937\"><Arg1>Recording assets</Arg1><Par2>Recording assets</Par2><Arg2>ClickLearnUX12_ListViewLightVisual</Arg2><Arg3>Recording assets</Arg3><Par3><lt><l lcid=\"1033\">Recording assets</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>Recording assetsMap-    Assets </Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_ClickLearnUX12_ListViewLightVisual</Par1><ParentRect><lt><l lcid=\"1033\" x=\"371\" y=\"287\" w=\"640\" h=\"141\" /></lt></ParentRect><X><lt><l lcid=\"1033\">388</l></lt></X><Y><lt><l lcid=\"1033\">424</l></lt></Y><W><lt><l lcid=\"1033\">606</l></lt></W><H><lt><l lcid=\"1033\">48</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1650752</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1663003</l></lt></Offset2><Rx><lt><l lcid=\"1033\">691</l></lt></Rx><Ry><lt><l lcid=\"1033\">448</l></lt></Ry><Par5><lt><l lcid=\"1033\">Recording assetsMap-    Assets </l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "388, 424, 606, 48",
+      "Offset": 1650752,
+      "TemplatedText": "Move the mouse to the list item <b>Recording assets</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the list item "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Recording assets"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "60e3ce6c-fa50-47bb-9458-a2c01557bfa2",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-60e3ce6c-fa50-47bb-9458-a2c01557bfa2",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "btnAdd",
+        "2": "New",
+        "3": "",
+        "4": "btnAdd",
+        "Source": "<Step x=\"35\" y=\"516\" exe=\"CLStudio.exe\" wh=\"263690\" cmd=\"CLux12\" mouse=\"Left\" id=\"60e3ce6c-fa50-47bb-9458-a2c01557bfa2\" ms=\"117737218\"><Arg1>btnAdd</Arg1><Par2>btnAdd</Par2><Arg2>Telerik_WinControls_UI_RadButton</Arg2><Arg3>New</Arg3><Par3><lt><l lcid=\"1033\">New</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>btnAdd</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadButton</Par1><X><lt><l lcid=\"1033\">16</l></lt></X><Y><lt><l lcid=\"1033\">513</l></lt></Y><W><lt><l lcid=\"1033\">32</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1663725</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1670520</l></lt></Offset2><Rx><lt><l lcid=\"1033\">32</l></lt></Rx><Ry><lt><l lcid=\"1033\">529</l></lt></Ry><Par5><lt><l lcid=\"1033\">btnAdd</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "16, 513, 32, 32",
+      "Offset": 1663725,
+      "TemplatedText": "Click on the button <b>New</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Click on the button "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "New"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    },
+    {
+      "Id": "a23874e1-16dc-43c0-b386-292cdc1cc037",
+      "Cmd": "CLux12",
+      "ImageFileName": "EmptyProject-a23874e1-16dc-43c0-b386-292cdc1cc037",
+      "AssistPreviewImage": null,
+      "FrameFileNames": null,
+      "Pars": {
+        "1": "lblCreateFolder",
+        "2": "Create new folder",
+        "3": "",
+        "4": "lblCreateFolder",
+        "Source": "<Step x=\"156\" y=\"470\" exe=\"CLStudio.exe\" wh=\"462640\" cmd=\"CLux12\" mouse=\"Move\" id=\"a23874e1-16dc-43c0-b386-292cdc1cc037\" ms=\"117743343\"><Arg1>lblCreateFolder</Arg1><Par2>lblCreateFolder</Par2><Arg2>Telerik_WinControls_UI_RadLabel</Arg2><Arg3>Create new folder</Arg3><Par3><lt><l lcid=\"1033\">Create new folder</l></lt></Par3><Arg4></Arg4><Par4><lt><l lcid=\"1033\"></l></lt></Par4><Arg5>lblCreateFolder</Arg5><Arg6>CLStudio.exe</Arg6><Par1>CL_ux12_%_Telerik_WinControls_UI_RadLabel</Par1><X><lt><l lcid=\"1033\">71</l></lt></X><Y><lt><l lcid=\"1033\">449</l></lt></Y><W><lt><l lcid=\"1033\">255</l></lt></W><H><lt><l lcid=\"1033\">32</l></lt></H><ParBookmarkWindow><lt><l lcid=\"1033\" x=\"-8\" y=\"-8\" w=\"1382\" h=\"744\" /></lt></ParBookmarkWindow><ParBookmarkWindowClient><lt><l lcid=\"1033\" x=\"0\" y=\"23\" w=\"1366\" h=\"705\" /></lt></ParBookmarkWindowClient><Offset><lt><l lcid=\"1033\">1757851</l></lt></Offset><Offset2><lt><l lcid=\"1033\">1763926</l></lt></Offset2><Rx><lt><l lcid=\"1033\">198</l></lt></Rx><Ry><lt><l lcid=\"1033\">465</l></lt></Ry><Par5><lt><l lcid=\"1033\">lblCreateFolder</l></lt></Par5></Step>",
+        "0": "CLux12"
+      },
+      "Rect": "71, 449, 255, 32",
+      "Offset": 1757851,
+      "TemplatedText": "Move the mouse to the label <b>Create new folder</b><br/>",
+      "DictionaryText": [
+        {
+          "tIdx": 0,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Move the mouse to the label "
+        },
+        {
+          "tIdx": 1,
+          "tType": 2,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 2,
+          "tType": 1,
+          "tObj": null,
+          "tText": "Create new folder"
+        },
+        {
+          "tIdx": 1,
+          "tType": 5,
+          "tObj": null,
+          "tText": null
+        },
+        {
+          "tIdx": 3,
+          "tType": 4,
+          "tObj": null,
+          "tText": null
+        }
+      ],
+      "FlowTags": "",
+      "Steps": null
+    }
+  ],
+  "MetaData": {
+    "clnoofsteps": "71"
+  },
+  "ObjectIDs": [
+    "JSV",
+    "PDF",
+    "DOCX",
+    "PPTX"
+  ],
+  "ChapterStart": null,
+  "LCID": 1033,
+  "RootLCID": 1033,
+  "LCIDList": null,
+  "WordIndexStr": "",
+  "IconList": {},
+  "IconRef": {},
+  "Copyright": "ClickLearn ApS",
+  "Chapters": null,
+  "VideoWidth": 1024,
+  "VideoHeight": 576,
+  "VideoArguments": "",
+  "ImageExtension": "jpg",
+  "InsideHelpType": null,
+  "References": null,
+  "PublishSettings": [
+    {
+      "tag": "recording-fontfamily",
+      "value": "Palatino Linotype"
+    },
+    {
+      "tag": "recording-h1",
+      "value": "30"
+    },
+    {
+      "tag": "recording-h2",
+      "value": "25"
+    },
+    {
+      "tag": "recording-h3",
+      "value": "20"
+    },
+    {
+      "tag": "recording-h4",
+      "value": "15"
+    },
+    {
+      "tag": "recording-h5",
+      "value": "10"
+    },
+    {
+      "tag": "recording-h6",
+      "value": "5"
+    },
+    {
+      "tag": "recording-paragraphsize",
+      "value": "30,15"
+    },
+    {
+      "tag": "recording-paragraphcolor",
+      "value": "green"
+    },
+    {
+      "tag": "recording-produceshowme",
+      "value": null
+    },
+    {
+      "tag": "recording-producetryme",
+      "value": null
+    },
+    {
+      "tag": "recording-producetestme",
+      "value": null
+    }
+  ],
+  "tColorHtml": "#4D98CE"
+};
