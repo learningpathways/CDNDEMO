@@ -94,5 +94,18 @@
       "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
       "Name": "Beta"
     }
+  ],
+  "Telemetry": {},
+  "Version": {
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.0.0",
+    "RepoURL": "https://github.com/learningpathways/CDNDEMO"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://github.com/",
+    "https://support.office.com",
+    "https://docs.microsoft.com/"
   ]
 }
