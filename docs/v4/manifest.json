@@ -4,12 +4,12 @@
     "Manifest": "v4",
     "ManifestMinWebPart": "4.0.0",
     "CurrentWebPart": "4.0.0",
-    "RepoURL": "https://github.com/learningpathways/CDNDEMO"
+    "RepoURL": "https://github.com/learningpathways/LPCDNDemo"
   },
   "ContentPacks": [],
   "AssetOrigins": [
     "https://support.office.com",
-    "https://www.google.com/"
+    "https://docs.microsoft.com"
   ],
   "Languages": [
     "en-US"
